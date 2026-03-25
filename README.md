@@ -6,6 +6,8 @@ The results capture ion migration from anode to cathode and highlight key numeri
 The full project description, derivations, and analysis are available in the report:  
 [Full Project Report (PDF)](ME2%20Computing%20Coursework.pdf)
 
+Credits: Enrico Vittori, Jaime Lopez Ruiz
+
 ---
 
 ## Visualisations
